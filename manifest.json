@@ -1,10 +1,10 @@
 {
-  "name": "AnimeHub PRO",
-  "version": "2.0.0",
+  "name": "AnimeHub GOD",
+  "version": "3.0.0",
   "providers": [
     {
       "id": "animehub",
-      "name": "🔥 AnimeHub PRO",
+      "name": "AnimeHub GOD",
       "file": "providers/animehub.js"
     }
   ]
