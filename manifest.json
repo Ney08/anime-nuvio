@@ -1,0 +1,11 @@
+{
+  "name": "AnimeHub PRO",
+  "version": "2.0.0",
+  "providers": [
+    {
+      "id": "animehub",
+      "name": "🔥 AnimeHub PRO",
+      "file": "providers/animehub.js"
+    }
+  ]
+}
